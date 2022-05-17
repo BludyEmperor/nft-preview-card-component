@@ -1,0 +1,40 @@
+@media (max-width: 375px) {
+  .nft-component {
+    width: 32rem;
+    padding: 2rem;
+  }
+
+  .nft-img {
+    width: 28rem;
+  }
+
+  .icon-view {
+    width: 3.6rem;
+  }
+
+  .hover-layer {
+    width: 28rem;
+    height: 28rem;
+  }
+
+  .nft-title {
+    font-size: 1.6rem;
+  }
+
+  .nft-description {
+    font-size: 1.4rem;
+  }
+
+  .nft-price,
+  .nft-time {
+    font-size: 1.2rem;
+  }
+
+  .nft-creator-box p {
+    font-size: 1.2rem;
+  }
+
+  .creators-avatar-img {
+    width: 2.6rem;
+  }
+}
